@@ -28,7 +28,7 @@
 
 ## 🖼️ Preview
 
-!<img width="1762" height="1368" alt="localhost_5173_" src="https://github.com/user-attachments/assets/21485c7f-91b9-4c26-ae3c-7313002793dd" />
+<img width="1762" height="1368" alt="localhost_5173_" src="https://github.com/user-attachments/assets/21485c7f-91b9-4c26-ae3c-7313002793dd" />
 
 ---
 
